@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/janescience/.android/build-cache/96b6e1d427f707af02c3fbd12e762d44809a588d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/home/janescience/Desktop/ITMS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1c2438caefdb4b019b610daa31972124f8742ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/janescience/Desktop/ITMS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1985195e92aaa0f1afefcab0c0b92d0553088441">
+        <dex dex="/home/janescience/Desktop/ITMS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f2f9bf29cba4cfc52ed40f64968f35cc6bb31356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/janescience/Desktop/ITMS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/janescience/Desktop/ITMS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c03113a01177e9b207a8815dd0d3b9a17acffbb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/janescience/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/janescience/Desktop/ITMS/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1699e4ace9659ec9d192bc78af0500c5aebba6d4/classes.dex" />
+    </item>
+
+</items>

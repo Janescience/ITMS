@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ITMS </string>
+
+
+    <string name="login_title_user">Login</string>
+    <string name="login_title_mechanic">Mechanic Login</string>
+    <string name="username_title">Username</string>
+    <string name="password_title">Password</string>
+    <string name="email_title">E-mail address</string>
+    <string name="password_confrim_title">Confrim Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="register">New User? Register here</string>
+    <string name="login_error_message">Username or Password is incorrect.</string>
+    <string name="register_error_message">Register failed, Try again!</string>
+    <string name="register_password_error">Password does not match</string>
+    <string name="register_success">Register Successful</string>
+    <string name="register_title">Register</string>
+    <string name="title_activity_main">ITMS.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab">TabActivity</string>
+
+
+    <string-array name="planets_array">
+        <item>Select</item>
+        <item>Header Slide Topic First</item>
+        <item>Header Slide Details First</item>
+    </string-array>
+    <string name="title_activity_post">PostActivity</string>
+</resources>

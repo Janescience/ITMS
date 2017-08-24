@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="system.management.information.itms.PostActivity">
+
+
+    <ImageButton
+        android:id="@+id/imageSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#00ffffff"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/icon_gallery_24" />
+
+    <EditText
+        android:id="@+id/txtHeader"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="21dp"
+        android:gravity="center"
+        android:ems="10"
+        android:hint="Header"
+        android:inputType="textPersonName"
+        android:background="@drawable/rounded_edittext"
+        android:layout_below="@+id/imageSelect"
+        android:layout_alignLeft="@+id/txtDetail"
+        android:layout_alignStart="@+id/txtDetail" />
+
+    <EditText
+        android:id="@+id/txtDetail"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:hint="Details"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:background="@drawable/rounded_edittext"
+        android:layout_below="@+id/txtHeader"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/submitBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimary"
+        android:text="Submit Post" />
+</RelativeLayout>
